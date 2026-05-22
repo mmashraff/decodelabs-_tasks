@@ -1,0 +1,7 @@
+Change_ID,Column Affected,Description,Impact,Status
+CR001,Coupon Code,Identified missing (null) values,309 null values found,Resolved
+CR002,All Rows,Removed duplicate rows,0 rows removed,Resolved
+CR003,OrderID,Verified no duplicate ID,0 duplicates,Resolved
+CR004,Date,Corrected date format to YYYY-MM-DD,1200 rows converted,Resolved
+CR005,CouponCode,Handled missing values,309 rows updated,Resolved
+CR006,Date,Verified 0% error rate on date format,All dates valid ,Resolved
