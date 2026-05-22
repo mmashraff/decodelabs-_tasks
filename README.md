@@ -6,7 +6,7 @@ This repository contains **all three projects** completed during my internship a
 
 | Project | Topic | Tools | Description |
 | :--- | :--- | :--- | :--- |
-| **Decode_Project_1** | Excel Data Analysis | Microsoft Excel | Data cleaning, pivot tables, dashboards, and sensitivity analysis |
+| **Decode_Project_1** | Data cleaning with Python | Pythib, Pandas, Jupyter Notebook | Data cleaning, and sensitivity analysis |
 | **Decode_Project_2** | EDA with Python | Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook | Exploratory Data Analysis on e-commerce dataset with visualizations |
 | **Decode_Project_3** | SQL Data Analysis | SQL Server, T-SQL, SSMS | Writing optimized queries for filtering, aggregation, and business insights |
 
